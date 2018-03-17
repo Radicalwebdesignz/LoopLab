@@ -1,0 +1,21 @@
+.navbar {
+  border-bottom: 5px solid #0562c1 !important; }
+
+.borderRadius {
+  border-radius: 10%;
+  font-size: 10px; }
+
+#headerSection {
+  position: relative;
+  background: url("../img/home.jpg");
+  background-attachment: fixed;
+  height: 600px;
+  background-size: contain; }
+
+.overlay {
+  background: rgba(0, 0, 0, 0.7);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
